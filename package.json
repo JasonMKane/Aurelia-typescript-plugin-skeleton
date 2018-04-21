@@ -1,11 +1,17 @@
 {
   "name": "aurelia-typescript-plugin-skeleton",
-  "version": "1.3.1",
-  "description": "A simple client based on the Fetch standard.",
+  "version": "1.0.0",
+  "description": "A simple type script skeleton for an Aurelia plugin",
   "license": "MIT",
   "author": "Jason Kane",
-  "main": "dist/commonjs/aurelia-fetch-client.js",
+  "main": "dist/commonjs/index.js",
   "typings": "dist/aurelia-typescript-plugin-skeleton.d.ts",
+  "keywords": [
+    "Aurelia",
+    "Typescript",
+    "Plugin",
+    "Skeleton"
+  ],
   "jspm": {
     "registry": "npm",
     "jspmPackage": true,
